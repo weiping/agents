@@ -1,5 +1,13 @@
 # livekit-plugins-playht
 
+## 1.0.2
+
+### Patch Changes
+
+- feat: tts retry & tts.FallbackAdapter - [#1074](https://github.com/livekit/agents/pull/1074) ([@theomonnom](https://github.com/theomonnom))
+
+- feat(playht): add Play3.0-mini engine support - [#1140](https://github.com/livekit/agents/pull/1140) ([@imsakg](https://github.com/imsakg))
+
 ## 1.0.1
 
 ### Patch Changes
